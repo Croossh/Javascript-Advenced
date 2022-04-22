@@ -1,5 +1,5 @@
-# 🚀 JavaScript Advenced 🚀
-### 배운 내용을 기록하는 repository 입니다.
+# JavaScript Advenced
+### 😍 배운 내용을 기록하는 repository 입니다. 😍
 
 ## 🙋‍♂️Contents
 * [1. Truthy와 Falsy](#1-truthy와-falsy)
@@ -104,3 +104,5 @@ let a = [];
 
 a.length === 0 ? console.log("빈 배열") : console.log("있지롱"); // 빈 배열
 ```
+
+[🔼최상단으로 가기🔼](#javascript-advenced)
